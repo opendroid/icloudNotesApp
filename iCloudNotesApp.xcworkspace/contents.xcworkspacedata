@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:icloudNotes-iOS/icloudNotes-iOS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:icloudNotes-macOS/icloudNotes-macOS.xcodeproj">
+   </FileRef>
+</Workspace>
